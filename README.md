@@ -28,6 +28,7 @@
   <td>$${\color{#FFFFFF}\verb|FAVORITES!|}$$</td>
 </tr>
 </table>
+<hr>
 <a href="https://open.spotify.com/track/57CsspUUBt5A65WRgywR7f?si=dcfabf75d2744ff1"><img src="https://64.media.tumblr.com/6aba530459a41cd9b617a6fd5a8ed418/27c7f397606aef4d-69/s540x810/b133da597212dcbadc6ef5dc5a096c70893685d9.pnj" width="10%" height="10%" align="left" alt="LASTFM" title="Gone Postal - A Fall To Break"></a>
 <a href="https://open.spotify.com/track/05NpeTQWnzXS1d8ZqL4YFZ?si=4fdb62036198419f"><img src="https://64.media.tumblr.com/6c8f2f5032596426737a5e9e5c994147/27c7f397606aef4d-aa/s400x600/e43653579d54e975c84ce6f7365a948698951242.pnj" width="10%" height="10%" align="left" alt="LASTFM" title="Twisted Transistor - Korn"></a>
 <a href="https://open.spotify.com/track/3faORyOXd3nhvEAXzleLDb?si=6ea637414dd84591"><img src="https://64.media.tumblr.com/1032d2ff68e947693a4ddedca7bf5d92/27c7f397606aef4d-93/s400x600/440fdd49d079d786a25bb5a8069433db3f4cf25c.pnj" width="10%" height="10%" align="left" alt="LASTFM" title="Lifelover - En Man I Sina Sämsta År"></a>
