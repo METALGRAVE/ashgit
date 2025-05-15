@@ -33,5 +33,5 @@
 <a href="https://open.spotify.com/track/3faORyOXd3nhvEAXzleLDb?si=6ea637414dd84591"><img src="https://64.media.tumblr.com/1032d2ff68e947693a4ddedca7bf5d92/27c7f397606aef4d-93/s400x600/440fdd49d079d786a25bb5a8069433db3f4cf25c.pnj" width="10%" height="10%" align="left" alt="LASTFM" title="Lifelover - En Man I Sina Sämsta År"></a>
 <a href="https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ?si=a5fb5dd3eee248e4"><img src="https://64.media.tumblr.com/f0c4a57f7239c3d67766fa2cb92a7a83/27c7f397606aef4d-23/s400x600/a693a438d4de9124be13a1943fac93fe3a347ac7.pnj" width="10%" height="10%" align="left" alt="LASTFM" title="D.A.N.C.E - Justice"></a>
 <a href="https://open.spotify.com/track/1R2S07B6YqebXf3SbDK0dR?si=0229893360bd4bd5"><img src="https://64.media.tumblr.com/68059f2098b872f88310da2878c2db38/27c7f397606aef4d-d1/s400x600/6c04ff3528ebf671ca951983e468cb6da8b8e669.pnj" width="10%" height="10%" align="left" alt="LASTFM" title="1937 Statepark - Car Seat Headrest"></a>
-<a href="https://open.spotify.com/track/3vhLQ8fDqXsS6EmereNOoI?si=5ab5500117a34f3c"><img src="https://64.media.tumblr.com/c177e83caae3f0a38ea2a4d14cbe3509/27c7f397606aef4d-65/s400x600/04a0dbd61144edb27d102fc321d9265c7c949c88.pnj" width="10%" height="10%" align="left" alt="LASTFM" title="Gone Postal - A Fall To Break"></a>
+
 
