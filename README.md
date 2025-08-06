@@ -11,13 +11,13 @@
 
 <img src="https://64.media.tumblr.com/8d17a6952d6dd3677bc5039817142fb8/61657c34ff07b6cd-65/s400x600/a2cd7dd99b316e86d9886c84990d215e5bdb90c1.pnj" width="75%" height="10%" alt="divider"></a>
 
- <table border="2">
+<table border="2">
      <tr>
        <td>
          <br>
          <div align="center">
          ${\textsf{\color{#ffefe0}About Me}}$ 
-<p align="center"> <kbd>$\color{#a08098}{\textsf{-------------NAME-------------}}$<br>$\color{#a08098}{\textsf{-------------PRONOUNS-------------}}$<br><br>$\color{#b8a0b0}{\textsf{-------------CAPTION-------------}}$&nbsp;</kbd> 
+<p align="center"> <kbd>$\color{#a08098}{\textsf{Spade/Spadewish/Fluke/Ash}}$<br>$\color{#a08098}{\textsf{Any/All Prounouns}}$<br>$\color{#a08098}{\textsf{Will 100 percent talk about: CoF, Rdr, Murder Drones,}}$<br>$\color{#a08098}{\textsf{Arcane, Poke'mon, TpoH, etc!}}$<br><br>$\color{#b8a0b0}{\textsf{Feel Free to interact, I might not respond though}}$&nbsp;</kbd> 
      <br>
     </td>
   </tr>
