@@ -1,1 +1,24 @@
+   <div align="center">
 
+
+ 
+![](https://64.media.tumblr.com/d994291e9aebe614969af568ade920c5/8159f1c97a16f9d2-c8/s75x75_c1/f98cd90fdfc8cac9ab415e763430cba73a71c70e.webp)<a href="https://bythorneparanormal.neocities.org/">
+<img src="https://64.media.tumblr.com/b183029d53702e40450107b605416f19/df0de43420ded550-88/s250x400/e415a628c31d8f86b6b30065337ad49bfbbfff23.gifv" width="25%" height="10%" alt="6 intr" title="I know what you want and I know what you're trying to do... I'm not afraid of you."></a>
+![](https://64.media.tumblr.com/d994291e9aebe614969af568ade920c5/8159f1c97a16f9d2-c8/s75x75_c1/f98cd90fdfc8cac9ab415e763430cba73a71c70e.webp)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Coral+Pixels&size=15&duration=700&pause=10&color=FFFFFF&center=true&multiline=true&width=435&height=75&lines=distraught+at+the+sight+of+her+missing+infant;distraught+at+the+sight+of+her+missing+infant;distraught+at+the+sight+of+her+missing+infant;distraught+at+the+sight+of+her+missing+infant" alt="Typing SVG" title="distraught at the sight of her missing infant" /></a>
+
+
+<img src="https://64.media.tumblr.com/8d17a6952d6dd3677bc5039817142fb8/61657c34ff07b6cd-65/s400x600/a2cd7dd99b316e86d9886c84990d215e5bdb90c1.pnj" width="75%" height="10%" alt="divider"></a>
+
+ <table border="2">
+     <tr>
+       <td>
+         <br>
+         <div align="center">
+         ${\textsf{\color{#ffefe0}About Me}}$ 
+<p align="center"> <kbd>$\color{#a08098}{\textsf{-------------NAME-------------}}$<br>$\color{#a08098}{\textsf{-------------PRONOUNS-------------}}$<br><br>$\color{#b8a0b0}{\textsf{-------------CAPTION-------------}}$&nbsp;</kbd> 
+     <br>
+    </td>
+  </tr>
+</table>
