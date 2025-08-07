@@ -24,7 +24,7 @@
     </td>
   </tr>
 </table>
-<img src="https://64.media.tumblr.com/7a53565ffeabf5f218438e15fdbd0ef1/82cd3178c8360dc2-92/s1280x1920/335a437ed1c7e7f416ddd92cecdf30a292e90ac9.pnj"  width="50%" height="10%"  alt="jonah" title="OH MY GOD BEHIND YOU"></a>
+<img src="https://64.media.tumblr.com/7a53565ffeabf5f218438e15fdbd0ef1/82cd3178c8360dc2-92/s1280x1920/335a437ed1c7e7f416ddd92cecdf30a292e90ac9.pnj"  width="35%" height="10%"  alt="jonah" title="OH MY GOD BEHIND YOU"></a>
 <hr>
 
 
