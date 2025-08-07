@@ -28,8 +28,8 @@
 
 </div>
 
-<div align="right">
-   
+
+   <img src="https://64.media.tumblr.com/cc72dcbb0f36b3277b050b6e9ce0af85/c2c0ed747b170e07-b6/s1280x1920/b1404c1807e80f0fb28fa7e0eed0ae41f59541d9.pnj" width="35%" height="10%" align="left" alt="jonah" title="Art by: DRAXXOM on twt"></a>
    <p align="center"><img src="https://komarev.com/ghpvc/?username=METALGRAVE&color=a08098&style=for-the-badge&label=VICTIMS"></p>
 
 
