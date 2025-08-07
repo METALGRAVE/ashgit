@@ -30,7 +30,7 @@
 
 <div align="center">
    
-   <img src="https://cdn.discordapp.com/attachments/1229954482591502399/1402932957534228531/20534106145173a2c6b9a430228b0600.jpg?ex=6895b6a2&is=68946522&hm=4cf46894761476c1efdc91217129f42d971e48cb3104bf5a824eaa38635a5d5c&" width="35%" height="10%" align="left" alt="iadammmm" title="Art by: DRAXXOM on twt"></a>
+   <img src="https://cdn.discordapp.com/attachments/1229954482591502399/1402932957534228531/20534106145173a2c6b9a430228b0600.jpg?ex=6895b6a2&is=68946522&hm=4cf46894761476c1efdc91217129f42d971e48cb3104bf5a824eaa38635a5d5c&" width="35%" height="10%" align="center" alt="iadammmm" title="Art by: DRAXXOM on twt"></a>
 
 </div>
 
