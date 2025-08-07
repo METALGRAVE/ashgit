@@ -15,14 +15,14 @@
 
 <img src="https://64.media.tumblr.com/d8b262358bfb7ff649f0ffe5590f7532/708611b23124556d-64/s1280x1920/29444c81fb4674bfc84093cbae7b0be07cb641cc.pnj" width="35%" height="10%" alt="jonah" align="right" title="OH MY GOD BEHIND YOU"></a>
 
-> <table border="4">
->     <tr>
->       <td>
->         <br>
->         <div align="center">
->         ${\textsf{\color{#ffefe0}About Me}}$ 
-> <p align="center"> <kbd>$\color{#a08098}{\textsf{Spade/Spadewish/Fluke/Ash}}$<br>$\color{#a08098}{\textsf{Any/All Prounouns}}$<br>$\color{#a08098}{\textsf{Will 100 percent talk about: CoF, Rdr, Murder Drones,}}$<br>$\color{#a08098}{\textsf{Arcane, Poke'mon, TpoH, etc!}}$<br><br>$\color{#b8a0b0}{\textsf{Feel Free to interact, I might not respond though}}$&nbsp;</kbd> 
-     <br>
+> <table border="4">    <p align="center"><img src="https://komarev.com/ghpvc/?username=METALGRAVE&color=a08098&style=for-the-badge&label=VICTIMS"></p>
+>     <tr>  
+>       <td>  
+>         <br>  
+>         <div align="center">  
+>         ${\textsf{\color{#ffefe0}About Me}}$  
+> <p align="center"> <kbd>$\color{#a08098}{\textsf{Spade/Spadewish/Fluke/Ash}}$<br>$\color{#a08098}{\textsf{Any/All Prounouns}}$<br>$\color{#a08098}{\textsf{Will 100 percent talk about: CoF, Rdr, Murder Drones,}}$<br>$\color{#a08098}{\textsf{Arcane, Poke'mon, TpoH, etc!}}$<br><br>$\color{#b8a0b0}{\textsf{Feel Free to interact, I might not respond though}}$&nbsp;</kbd>  
+   <br>
     </td>
   </tr>
 </table>
