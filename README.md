@@ -11,7 +11,7 @@
 
 <img src="https://64.media.tumblr.com/8d17a6952d6dd3677bc5039817142fb8/61657c34ff07b6cd-65/s400x600/a2cd7dd99b316e86d9886c84990d215e5bdb90c1.pnj" width="80%" height="10%" alt="divider"></a>
 
-<img src="https://64.media.tumblr.com/d8b262358bfb7ff649f0ffe5590f7532/708611b23124556d-64/s1280x1920/29444c81fb4674bfc84093cbae7b0be07cb641cc.pnj" width="35%" height="10%" align="right" alt="jonah" title="OH MY GOD BEHIND YOU"></a>
+<img src="https://64.media.tumblr.com/d8b262358bfb7ff649f0ffe5590f7532/708611b23124556d-64/s1280x1920/29444c81fb4674bfc84093cbae7b0be07cb641cc.pnj" width="35%" height="10%" alt="jonah" title="OH MY GOD BEHIND YOU"></a>
 
 <table border="2">
      <tr>
@@ -24,7 +24,7 @@
     </td>
   </tr>
 </table>
-<img src="https://64.media.tumblr.com/2c0ef705a970fc57b4b437d0b1692102/3c7def55ef5f3093-4b/s1280x1920/64e67bdcddc13264a29e0084d1ee4996b80fdc27.pnj"  width="55%" height="10%"  alt="jonah" title="Art by: DRAXXOM on twt"></a>
+<img src="https://64.media.tumblr.com/2c0ef705a970fc57b4b437d0b1692102/3c7def55ef5f3093-4b/s1280x1920/64e67bdcddc13264a29e0084d1ee4996b80fdc27.pnj"  width="55%" height="10%"  alt="gabriel stamps" title="Art by: DRAXXOM on twt"></a>
 
 </div>
 
