@@ -29,7 +29,7 @@
 </div>
 
 
-   <img src="https://64.media.tumblr.com/019138bc3f6974173a935340ccc20a84/e9ceddfc2a9616ce-f6/s1280x1920/ec87f529efefb6e6f6837a4cc26365c877cb11cd.pnj" width="45%" height="10%" align="left" alt="jonah" title="Art by: DRAXXOM on twt"></a>
+   <img src="https://64.media.tumblr.com/019138bc3f6974173a935340ccc20a84/e9ceddfc2a9616ce-f6/s1280x1920/ec87f529efefb6e6f6837a4cc26365c877cb11cd.pnj" width="50%" height="10%" align="left" alt="jonah" title="Art by: DRAXXOM on twt"></a>
    <p align="center"><img src="https://komarev.com/ghpvc/?username=METALGRAVE&color=a08098&style=for-the-badge&label=VICTIMS"></p>
 
 
