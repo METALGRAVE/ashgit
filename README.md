@@ -1,6 +1,8 @@
    <div align="center">
 
 
+<img src="https://64.media.tumblr.com/0b2efcd00144f115fdff7de6c5b1ba57/c95a9eabe8fc6a53-f6/s400x600/25146de14b07f8e95e7d4a01ae5326aad2ed8488.pnj" width="75%" height="10%" alt="divider"></a>
+
  
 ![](https://64.media.tumblr.com/d994291e9aebe614969af568ade920c5/8159f1c97a16f9d2-c8/s75x75_c1/f98cd90fdfc8cac9ab415e763430cba73a71c70e.webp)<a href="https://bythorneparanormal.neocities.org/">
 <img src="https://64.media.tumblr.com/b183029d53702e40450107b605416f19/df0de43420ded550-88/s250x400/e415a628c31d8f86b6b30065337ad49bfbbfff23.gifv" width="25%" height="10%" alt="6 intr" title="I know what you want and I know what you're trying to do... I'm not afraid of you."></a>
