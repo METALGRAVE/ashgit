@@ -26,6 +26,11 @@
 </table>
 <img src="https://64.media.tumblr.com/2c0ef705a970fc57b4b437d0b1692102/3c7def55ef5f3093-4b/s1280x1920/64e67bdcddc13264a29e0084d1ee4996b80fdc27.pnj"  width="55%" height="10%"  alt="jonah" title="Art by: DRAXXOM on twt"></a>
 
+</div>
+
+<div align="right">
+   
+   <p align="center"><img src="https://komarev.com/ghpvc/?username=METALGRAVE&color=a08098&style=for-the-badge&label=VICTIMS"></p>
 
 
 
