@@ -26,7 +26,7 @@
     </td>
   </tr>
 </table>
-<img src="https://64.media.tumblr.com/2c0ef705a970fc57b4b437d0b1692102/3c7def55ef5f3093-4b/s1280x1920/64e67bdcddc13264a29e0084d1ee4996b80fdc27.pnj"  width="55%" height="10%"  alt="gabriel stamps" title="Art by: DRAXXOM on twt"></a>
+<img src="https://64.media.tumblr.com/8e23961c0141423ce5e745d485fe40ae/5964029cbce76607-5c/s1280x1920/87f180d46e1c368eddc8ae86d6b87aad8f408e28.pnj" width="55%" height="10%"  alt="gabriel stamps" title="Art by: DRAXXOM on twt"></a>
 
 </div>
 
