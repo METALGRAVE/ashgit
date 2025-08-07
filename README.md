@@ -29,10 +29,11 @@
 </div>
 
 
-   <img src="https://64.media.tumblr.com/019138bc3f6974173a935340ccc20a84/e9ceddfc2a9616ce-f6/s1280x1920/ec87f529efefb6e6f6837a4cc26365c877cb11cd.pnj" width="50%" height="10%" align="left" alt="jonah" title="Art by: DRAXXOM on twt"></a>
+   <img src="https://cdn.discordapp.com/attachments/1229954482591502399/1402932957534228531/20534106145173a2c6b9a430228b0600.jpg?ex=6895b6a2&is=68946522&hm=4cf46894761476c1efdc91217129f42d971e48cb3104bf5a824eaa38635a5d5c&" width="35%" height="10%" align="left" alt="iadammmm" title="Art by: DRAXXOM on twt"></a>
+   
+   <div align="right">
    <p align="center"><img src="https://komarev.com/ghpvc/?username=METALGRAVE&color=a08098&style=for-the-badge&label=VICTIMS"></p>
-
-
+   <img src="https://64.media.tumblr.com/019138bc3f6974173a935340ccc20a84/e9ceddfc2a9616ce-f6/s1280x1920/ec87f529efefb6e6f6837a4cc26365c877cb11cd.pnj" width="50%" height="10%" align="right" alt="in celebration of life" title="Art by: DRAXXOM on twt"></a>
 
 
 
