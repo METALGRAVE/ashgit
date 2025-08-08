@@ -15,7 +15,7 @@
 
 <img src="https://64.media.tumblr.com/d8b262358bfb7ff649f0ffe5590f7532/708611b23124556d-64/s1280x1920/29444c81fb4674bfc84093cbae7b0be07cb641cc.pnj" width="35%" height="10%" alt="jonah" align="right" title="OH MY GOD BEHIND YOU"></a>
 
- <table border="4">    <p align="center"><img src="https://komarev.com/ghpvc/?username=METALGRAVE&color=a08098&style=for-the-badge&label=VICTIMS"></p>
+> <table border="4">    <p align="center"><img src="https://komarev.com/ghpvc/?username=METALGRAVE&color=a08098&style=for-the-badge&label=VICTIMS"></p>
    <tr>  
    <td>  
    <br>  
