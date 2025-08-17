@@ -30,6 +30,9 @@
 
 </div>
 
+<div align="center">
+   
+   ![](https://64.media.tumblr.com/5ac8e2318e1403ead3f0018921e91449/8877ae9f0d521ceb-b7/s400x600/5634340d0e9b9025e6d864a920b25c1bff96ee88.pnj)
    
    <img src="https://cdn.discordapp.com/attachments/1229954482591502399/1402932957534228531/20534106145173a2c6b9a430228b0600.jpg?ex=6895b6a2&is=68946522&hm=4cf46894761476c1efdc91217129f42d971e48cb3104bf5a824eaa38635a5d5c&" width="35%" height="10%" align="center" alt="iadammmm" title="Art by: DRAXXOM on twt"></a>
 
